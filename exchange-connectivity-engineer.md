@@ -22,17 +22,18 @@ We deeply believe in an iterative process when developing software and as a resu
 
 ### Requirements
 
-At least a 4 hour timezone overlap between 8am and 6pm GMT+8 is required.
-Python 3 experience is critical, ideally at least 3 years.
-Experience integrating with REST APIs, including authentication.
-You need to know how to use Git and Github.
+* At least a 4 hour timezone overlap between 8am and 6pm GMT+8 is required.
+* Production experience with Python 3 experience is critical, ideally at least 3 years.
+* Strong understanding of async event loops in Python (either via asyncio or gevent).
+* Experience integrating with REST APIs, including authentication.
+* Know best practices on how to use Git and Github, especially around pull requests and code reviews.
+* Existing open source projects or contributions / sample code to demonstrate code quality.
+* Some baseline background knowledge about finance (you know about bids and asks in an order book, etc.)
 
-### Bonus Points
+### Bonuses / Nice to Haves
 
-Existing open source projects or contributions to demonstrate code quality.
-Experience with FIX.
-Experience with cryptocurrency trading.
-Some background knowledge about finance (you know about bids and asks in an order book, etc.)
+* Experience with FIX.
+* Experience/curiosity about cryptocurrency trading.
 
 ## Apply!
 
