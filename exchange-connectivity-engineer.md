@@ -12,7 +12,9 @@ We value constant learning, continuous improvement, fast iteration, and relentle
 
 ## Role and Responsibilities
 
-We’re seeking an experienced Python 3 engineer to help us integrate with new exchanges, through a variety of technologies: REST API for order placement and cancellation, Websocket connections for streaming order book data and account updates, and even FIX. Ideally you should have experience with these types of exchange integrations (even if it's just your own trading scripts), but any strong engineer with experience using REST APIs/Websockets/FIX and interest in cryptocurrency trading are encouraged to apply. We have a template and playbook already for these integrations so the domain expertise is less essential - the most important things are a thorough understanding of software engineering best practices (DRY, Single Responsibility Principle, state management, dependency injection) and strong communication skills.
+We’re seeking an experienced Python 3 engineer to help us integrate with new exchanges, through a variety of technologies: REST API for order placement and cancellation, Websocket connections for streaming order book data and account updates, and even FIX.
+
+Ideally you should have experience with these types of exchange integrations (even if it's just your own trading scripts), but any strong engineer with experience using REST APIs/Websockets/FIX and interest in cryptocurrency trading are encouraged to apply. We have a template and playbook already for these integrations so the domain expertise is less essential - the most important things are a thorough understanding of software engineering best practices (DRY, Single Responsibility Principle, state management, dependency injection) and strong communication skills.
 
 ## Expectations
 
