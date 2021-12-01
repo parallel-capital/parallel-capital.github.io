@@ -1,4 +1,4 @@
-# Python Exchange Connectivity Engineer (Contractor)
+# Junior Engineer, Exchange Connectivity (Python) {Hong Kong Only}
 
 ## Company Background
 
@@ -12,9 +12,9 @@ We value constant learning, continuous improvement, fast iteration, and relentle
 
 ## Role and Responsibilities
 
-We’re seeking an experienced Python 3 engineer to help us integrate with new exchanges, through a variety of technologies: REST API for order placement and cancellation, Websocket connections for streaming order book data and account updates, and even FIX.
+We’re seeking a junior engineer with some Python experience to help us integrate with new exchanges, through a variety of technologies: REST API for order placement and cancellation, Websocket connections for streaming order book data and account updates, and even FIX.
 
-Ideally you should have experience with these types of exchange integrations (even if it's just your own trading scripts), but any strong engineer with experience using REST APIs/Websockets/FIX and interest in cryptocurrency trading are encouraged to apply. We have a template and playbook already for these integrations so the domain expertise is less essential - the most important things are a thorough understanding of software engineering best practices (DRY, Single Responsibility Principle, state management, dependency injection) and strong communication skills.
+Ideally you should have experience with these types of exchange integrations (even if it's just your own trading scripts), but any recent grad or budding engineer with experience using REST APIs/Websockets/FIX and interest in cryptocurrency trading are encouraged to apply. We have a template and playbook already for these integrations so the domain expertise is less essential - the most important things are a willingness to learn fundamental software engineering best practices (DRY, Single Responsibility Principle, state management, dependency injection) and strong communication skills.
 
 ## Expectations
 
@@ -23,19 +23,16 @@ We deeply believe in an iterative process when developing software and as a resu
 ## Qualifications
 
 ### Requirements
-
-* At least a 4 hour timezone overlap between 8am and 6pm GMT+8 is required.
-* Production experience with Python 3 experience is critical, ideally at least 3 years.
-* Strong understanding of async event loops in Python (either via asyncio or gevent).
-* Experience integrating with REST APIs, including authentication.
+* Experience/curiosity about cryptocurrency trading.
+* Some experience with Python 3 and REST APIs.
 * Know best practices on how to use Git and Github, especially around pull requests and code reviews.
 * Existing open source projects or contributions / sample code to demonstrate code quality.
 * Some baseline background knowledge about finance (you know about bids and asks in an order book, etc.)
 
 ### Bonuses / Nice to Haves
-
+* Strong understanding of async event loops in Python (either via asyncio or gevent).
 * Experience with FIX.
-* Experience/curiosity about cryptocurrency trading.
+
 
 ## Apply!
 
