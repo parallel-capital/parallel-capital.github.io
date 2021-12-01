@@ -4,4 +4,4 @@
 
 [Latency Engineer (Python, Golang)](latency-engineer.html)
 
-[Senior Ruby on Rails Engineer, OTC (Rails)](senior-ruby-on-rails-engineer.html)
+[Lead Fullstack Engineer, OTC (Rails, Vue)](lead-fullstack-engineer.html)
