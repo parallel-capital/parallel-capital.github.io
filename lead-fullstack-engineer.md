@@ -11,11 +11,9 @@ We value constant learning, continuous improvement, fast iteration, and relentle
 
 ## Role and Responsibilities
 
-We’re seeking an experienced Lead Fullstack Engineer to join the team to own a new product which includes a REST API for customers to place trading orders, a web GUI for manually placing orders, and a dashboard for displaying account information including balances, historical orders/trades, and deposits/withdrawals.
+We’re seeking an experienced Lead Fullstack Engineer to join the team to own a new product which opens up our deep and wide liquidity pool to institutional counterparties; it includes a REST API for customers to place trading orders, a web GUI for manually placing orders, and a dashboard for displaying account information including balances, historical orders/trades, and deposits/withdrawals.
 
-You're expected to be ruthlessly pragmatic and will be responsible for helping make architectural and UI decisions on the API platform and user facing dashboard alongside the implementation of functionality for those two systems. You'll be directly involved in stakeholder meetings so that you have the full business context so that you're empowered to make the right decisions and technical tradeoffs.
-
-We do not use React or any fancy frontend Javascript frameworks with no plans to do so in the future because they’re not foreseeably needed for the business and introduce extraneous, unnecessary complexity.
+Ideally you are above all pragmatic and will be responsible for helping make architectural and UI decisions on the API platform and user facing dashboard alongside the implementation of functionality for those two systems. You'll be directly involved in stakeholder meetings so that you have the full business context so that you're empowered to make the right decisions and technical tradeoffs.
 
 No prior cryptocurrency or finance knowledge is required, as we are happy to provide education and training in those areas but a strong engineering background is absolutely essential for success in this role and an interest in these fields is highly recommended.
 
