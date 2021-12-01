@@ -1,4 +1,4 @@
-# Senior/Lead Rails Engineer
+# Lead Fullstack Engineer (Rails, Vue)
 
 ## Company Background
 Parallel Capital is an algorithmic, high frequency proprietary trading firm that specializes in providing liquidity within the cryptocurrency markets.
@@ -11,16 +11,18 @@ We value constant learning, continuous improvement, fast iteration, and relentle
 
 ## Role and Responsibilities
 
-We’re seeking an experienced Senior Ruby on Rails Engineer to join the team to help design, architect, and build out a new product which includes a REST API for customers to place trading orders alongside a dashboard for displaying account information including balances, historical orders/trades, and deposits/withdrawals.
+We’re seeking an experienced Lead Fullstack Engineer to join the team to own a new product which includes a REST API for customers to place trading orders, a web GUI for manually placing orders, and a dashboard for displaying account information including balances, historical orders/trades, and deposits/withdrawals.
 
-You’ll be responsible for helping make architectural and UI decisions on the API platform and user facing dashboard alongside the implementation of functionality for those two systems.
+You're expected to be ruthlessly pragmatic and will be responsible for helping make architectural and UI decisions on the API platform and user facing dashboard alongside the implementation of functionality for those two systems. You'll be directly involved in stakeholder meetings so that you have the full business context so that you're empowered to make the right decisions and technical tradeoffs.
 
-We use Tailwind CSS as our frontend framework and do not use React or any fancy frontend Javascript frameworks with no plans to do so in the future because they’re not foreseeably needed for the business and introduce extraneous, unnecessary complexity.
+We do not use React or any fancy frontend Javascript frameworks with no plans to do so in the future because they’re not foreseeably needed for the business and introduce extraneous, unnecessary complexity.
 
 No prior cryptocurrency or finance knowledge is required, as we are happy to provide education and training in those areas but a strong engineering background is absolutely essential for success in this role and an interest in these fields is highly recommended.
 
 ## Expectations
-We deeply believe in an iterative process when building technology and as a result we expect a tight feedback loop - frequent communication, asking questions when there are any uncertainties, pointing out tradeoffs to be made, and front footing anything unexpected are all strongly encouraged and highly valued.
+We deeply believe in a lean, iterative process when building technology and as a result we expect a tight feedback loop - frequent communication, asking questions when there are any uncertainties, pointing out tradeoffs to be made, and front footing anything unexpected are all strongly encouraged and highly valued.
+
+We expect an ownership mentality and in exchange we provide ample compensation to reflect that.
 
 The ideal candidate:
 * Minimizes the usage of frontend Javascript to only the minimum required to deliver business value; we only need a few components to be realtime, it's more important to ship something maintainable quickly!
@@ -38,12 +40,13 @@ The ideal candidate:
 
 ### Requirements
 * 5+ years of Ruby on Rails experience, 7+ years of relevant web development experience.
-* 3+ years of experience designing, implementing, and consuming REST APIs, including authentication, authorization, rate limiting, and 
+* 2+ years of JavaScript including Node.js experience.
+* 3+ years of experience designing, implementing, and consuming REST APIs, including authentication, authorization, rate limiting, etc.
 * Intimate familiarity with Git and GitHub best practices.
 * Solid grasp of the HTTP standard and RESTful design.
 * Strong expertise in PostgreSQL, particularly around query optimization and performance tuning.
 * Deep understanding of best practices and principles behind web application security.
-* Advanced knowledge and firsthand experience building production web applications at scale, including background jobs, 
+* Advanced knowledge and firsthand experience building, maintaining, and deploying production web applications at scale, including background jobs, database migrations, deployment techniques, etc.
 * Automated testing, including both unit and integration tests.
 * Proven track record of teamwork and delivering outstanding results.
 * Fluent written and verbal English language skills.
@@ -54,7 +57,6 @@ The ideal candidate:
 * Experience with high availability systems, including zero downtime deployments, minimal downtime database maintenance, database clustering/replicas, caching and cache invalidation.
 
 Experience with:
-* Double entry accounting systems
 * Heroku
 * Redis
 * Python
@@ -66,16 +68,19 @@ Preferred Time Zone: UTC +8 (Hong Kong) +/- 4 hours
 ## Benefits
 Fully remote work environment for candidates not located in Hong Kong. Relocation available for highly qualified candidates who are interested in moving to Hong Kong.
 
-Above market compensation.
+Very competitive, above market compensation.
+
+Access to investing into the closed fund, which has exceptionally high returns and virtually zero drawdown. For those who are familiar, think Renaissance Medallion. Can receive details upon application upon request.
 
 Work with smart, motivated, like-minded peers who you can teach and learn from to grow together.
 
 We strongly believe in professional development and are supportive in ensuring personal and professional growth.
 
-You’ll be joining a small team with no bureaucracy or politics and get to work directly with the founders. https://github.com/hanchang/manager-readme
+Here's my manager README so you can get an idea of what it's like to work with me:
+https://github.com/hanchang/manager-readme
 
 ## Apply!
 
-If this sounds like you, please apply by sending your Github/Gitlab/sample projects, cover letter, and resume to careers@parallelcapital.co.
+If this sounds like you, please apply by sending your Github/Gitlab/sample projects, cover letter, and resume to careers@parallelcapital.co with the subject line including the role(s) you're applying for.
 
 Non-standard applicants/applications are welcome; resumes are not strictly needed since the goal is to show off who you are and what you've done already that makes you a good fit!
