@@ -55,6 +55,7 @@ The ideal candidate:
 * Experience with high availability systems, including zero downtime deployments, minimal downtime database maintenance, database clustering/replicas, caching and cache invalidation.
 
 Experience with:
+* Vue.js
 * Heroku
 * Redis
 * Python
