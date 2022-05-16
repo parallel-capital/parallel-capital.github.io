@@ -53,8 +53,9 @@ The ideal candidate:
 ### Requirements
 
 * 5+ years of deep industry experience with at least one of Python, Golang, Rust.
-* Bachelor's degree in CS or related, firm understanding of data structures and algorithms.
 * 1+ years experience managing a (ideally remote) team.
+* Deep familiarity with product and software engineering best practices and toolchain.
+* Bachelor's degree in CS or related, firm understanding of data structures and algorithms.
 * Proven track record of results in a high performance environment.
 
 ## Benefits
