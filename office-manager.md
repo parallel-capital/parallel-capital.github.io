@@ -12,7 +12,7 @@ We value constant learning, continuous improvement, fast iteration, and relentle
 
 ## Role and Responsibilities
 
-We're looking for a proactive and professional Office Manager & Executive Assistant to help run our internal processes. This is a chance for an energetic, well-organized person with exceptional written/verbal communication skills to help support an interesting project in an entrepreneurial environment with a team of high performers.
+We're looking for a proactive and professional Office Manager & Administrative Assistant to help run our internal processes. This is a chance for an energetic, well-organized person with exceptional written/verbal communication skills to help support an interesting project in an entrepreneurial environment with a team of high performers.
 
 You’ll be deeply involved in the inner workings of a startup in an exciting new space. It’s a chance to be on the cutting edge of tech - the things you do day to day will have a real impact on a fast growing business.
 
