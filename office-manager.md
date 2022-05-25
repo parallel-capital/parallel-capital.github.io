@@ -18,28 +18,33 @@ You’ll be deeply involved in the inner workings of a startup in an exciting ne
 
 ## Responsibilities
 
-* Ensure smooth operations of the office and act as the main point of contact for the reception area.
-* Provide administrative support, including payments, data entry, filing, and record-keeping.
+* Provide administrative support, including payments, calendar management, general filing and record-keeping.
+* Ensure smooth operations of the office (including stationery, pantry supplies, etc.) and act as the main point of contact for the reception area.
 * Document existing and new processes and procedures with step by step instructions.
+* Proofreading, crafting emails and communications on behalf of company leadership.
 * Assist with online research tasks.
+* Light data entry.
 * Receive calls, take messages, and route correspondence.
 * Assist in ad-hoc duties when necessary.
 
 ## Requirements
 
 * Native level Cantonese, fluent English speaking & writing.
-* Extremely organized and systematic. Your inbox is impeccably clean. Attention to detail matters, since you'll have tasks where accuracy is extremely important.
+* 2+ years of administrative assistant or relevant experience.
+* Extremely organized and systematic. Your inbox is impeccably clean. Attention to detail matters, since you’ll be tasked with paperwork where accuracy is extremely important.
 * Strong written communication; we talk a lot on Slack since we value asynchronous work.
+* Impeccable reliability and ethics - if you say something, you mean it and follow through.
+* Proactive and able to take initiative with minimal supervision; know when to ask and when to move forward with decisions.
 * Exceptional ability to prioritize appropriately.
-* Proactive, confident, and works well under pressure.
+* Positive energy, flexible mindset, can-do attitude.
 * Don’t know how to do it? You’ll work it out (Google) and come back with a proposed solution.
-* Comfortable with Google Workspace (Drive/Docs/Sheets).
-* Eagerness to learn new Web-based tools, as appropriate and take ownership of them.
+* Comfortable with technology, including Slack for communication, Google Workspace (Drive/Docs/Sheets) for productivity, Trello for task management, and BitWarden for credential management.
+* Eagerness to learn new Web-based tools and take ownership of them as appropriate.
 * Basic familiarity with cryptocurrency & finance is not necessary, but a plus!
 
 ## Benefits
-Work for a fast-paced, exciting and financially solid finance/tech/crypto startup.
-High potential for professional growth.
-Excellent compensation package (competitive salary, 20 days annual leave, full private healthcare package including dental and vision)
+* Work for a fast-paced, exciting and profitable crypto/fintech startup.
+* High potential for professional growth, including learning more about crypto.
+* Excellent compensation package (competitive salary, 20 days annual leave, full private healthcare package including dental and vision).
 
 To apply, please send your resume to careers@parallelcapital.co along with a cover letter explaining why you think you'll be a great fit at Parallel Capital - looking forward to hearing from you!
